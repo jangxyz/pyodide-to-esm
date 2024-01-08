@@ -1,0 +1,19 @@
+{
+  "name": "pyodide-to-esm",
+  "version": "0.0.1",
+  "description": "wrap pyodide to esm",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pyodide",
+    "esm"
+  ],
+  "author": "Kim, Jang-hwan <janghwan@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "pyodide": "^0.24.1"
+  }
+}
